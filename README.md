@@ -1,5 +1,8 @@
-# ![yii2-emoji](http://nai8.me/images/ext-logos/yii2-emoji-logo.png)
-> **yii2-emoji**is a emoji extension of yii2.
+<p align="center">
+    <a href="http://nai8.me" target="_blank">
+        <img width="250" height="80" src="http://nai8.me/images/ext-logos/yii2-emoji-logo.png">
+    </a>
+</p>
 
 # Install
 $ composer require abei2017/yii2-emoji
