@@ -3,6 +3,11 @@
         <img width="250" height="80" src="http://nai8.me/images/ext-logos/yii2-emoji-logo.png">
     </a>
 </p>
+<p align="center">
+  <a href="https://github.com/abei2017/yii2-emoji/issues"><img src="https://img.shields.io/github/issues/abei2017/yii2-emoji.svg" alt="北哥开源扩展"></a>
+  <a href="https://github.com/abei2017/yii2-emoji"><img src="https://img.shields.io/github/forks/abei2017/yii2-emoji.svg" alt="北哥开源扩展"></a>
+  <a href="https://github.com/abei2017/yii2-emoji"><img src="https://img.shields.io/github/stars/abei2017/yii2-emoji.svg" alt="北哥开源扩展"></a>
+</p>
 
 # Install
 $ composer require abei2017/yii2-emoji
