@@ -1,0 +1,22 @@
+{
+    "name": "abei2017/yii2-emoji",
+    "description": "一个yii2的emoji扩展",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abei",
+            "email": "abei@nai8.me"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "emojione/emojione": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "abei2017\\emoji\\": "src"
+        }
+    }
+}
