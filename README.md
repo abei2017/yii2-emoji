@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-bottom:0!important;">
     <a href="http://nai8.me" target="_blank">
         <img width="250" height="80" src="http://nai8.me/images/ext-logos/yii2-emoji-logo.png">
     </a>
