@@ -1,7 +1,5 @@
-<h1>Yii2 Emoji</h1>
-<p>
-:smile: this is a emoji extension of yii2. 
-</p>
+# ![yii2-emoji](http://nai8.me/images/ext-logos/yii2-emoji-logo.png)
+> **yii2-emoji**is a emoji extension of yii2.
 
 # Install
 $ composer require abei2017/yii2-emoji
