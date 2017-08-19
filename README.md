@@ -12,6 +12,9 @@
 # Install
 $ composer require abei2017/yii2-emoji
 > only used in yii2.
+
+[Video](http://nai8.me/course-video.html?id=151)
+
 # Usage
 ```php
 use abei2017\emoji\Emoji;
