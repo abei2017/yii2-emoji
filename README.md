@@ -35,5 +35,20 @@ return [
 ];
 ```
 
+# Use Behavior (>= v1.1.0)
+```php
+// in ActiveRecord
+use abei2017\emoji\ValBehavior;
+public function behaviors(){
+     return [
+         'hello'=>[
+             'class'=>'abei2017\emoji\ValBehavior',
+             'valAttribute'=>'content',// no set, default "content"
+             'inFunc'=>'toShort'// no set, default "toShort", and you can set "shortnameToUnicode"
+         ]
+     ];
+ }
+```
+
 # License
 MIT
