@@ -9,6 +9,18 @@
   <a href="https://github.com/abei2017/yii2-emoji"><img src="https://img.shields.io/github/stars/abei2017/yii2-emoji.svg" alt="北哥开源扩展"></a>
 </p>
 
+<p align="center">
+    这是一套供yii2框架使用的emoji表情库。
+</p>
+
+<p align="center" style="margin-bottom:0!important;">
+    <p align="center">
+    <a href="http://nai8.me" target="_blank">
+        <img width="240" height="300" src="https://nai8.me/images/ext-logos/xcx.png">
+    </a>
+    </p>
+</p>
+
 # Install
 $ composer require abei2017/yii2-emoji
 > only used in yii2.
